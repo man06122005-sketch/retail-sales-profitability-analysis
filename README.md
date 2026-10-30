@@ -175,7 +175,7 @@ The project also exports seven analysis tables into `outputs/tables/`.
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/man06122005-sketch/retail-sales-profitability-analysis.git
 ```
 
 ### Step 2: Create and activate a virtual environment (Windows)
